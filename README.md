@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Shubhan Singh 👋 <br>I’m a second-year Computer Science Engineering student at NMIMS, Navi Mumbai, driven by curiosity and a love for turning ideas into reality. Whether I’m cracking a tricky algorithm or sketching out a new app feature over coffee with friends, I thrive on collaboration, creativity, and the joy of learning something new every day.</p>
+<p align="left">I’m Shubhan Singh 👋 <br>I’m a third-year Computer Science Engineering student at NMIMS, Navi Mumbai, driven by curiosity and a love for turning ideas into reality. Whether I’m cracking a tricky algorithm or sketching out a new app feature over coffee with friends, I thrive on collaboration, creativity, and the joy of learning something new every day.</p>
 
 ###
 
