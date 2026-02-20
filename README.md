@@ -64,3 +64,11 @@ Designing intelligent systems for the web.
   
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma" />
 </p>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+</div>
+
+###
