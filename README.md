@@ -1,4 +1,4 @@
-<h2 align="left">The GE3K</h2>
+<p style="font-size:20px;"><strong>The GEEK</strong></p>
 
 <p align="left">
 Designing intelligent systems for the web.
@@ -8,7 +8,7 @@ Designing intelligent systems for the web.
 <strong>MERN</strong> · <strong>Next.js</strong> · <strong>Interaction Architecture</strong> · <strong>System Design</strong>
 </p>
 
-<h3 align="left">Current Focus</h3>
+<p style="font-size:18px;"><strong>Current Focus</strong></p>
 
 <ul align="left">
   <li>Product-grade infrastructure</li>
@@ -17,7 +17,7 @@ Designing intelligent systems for the web.
   <li>Minimal, high-signal interfaces</li>
 </ul>
 
-<h3 align="left">Stack</h3>
+<p style="font-size:18px;"><strong>The Stack</strong></p>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
