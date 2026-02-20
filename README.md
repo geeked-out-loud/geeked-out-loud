@@ -1,3 +1,5 @@
+<br clear="both">
+
 <h3 align="left">The Geek</h3>
 
 ###
