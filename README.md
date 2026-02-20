@@ -1,4 +1,4 @@
-<h2 align="left">GE3K</h2>
+<h2 align="left">The GE3K</h2>
 
 <p align="left">
 Designing intelligent systems for the web.
@@ -8,8 +8,6 @@ Designing intelligent systems for the web.
 <strong>MERN</strong> · <strong>Next.js</strong> · <strong>Interaction Architecture</strong> · <strong>System Design</strong>
 </p>
 
----
-
 <h3 align="left">Current Focus</h3>
 
 <ul align="left">
@@ -18,8 +16,6 @@ Designing intelligent systems for the web.
   <li>Precision-driven engineering</li>
   <li>Minimal, high-signal interfaces</li>
 </ul>
-
----
 
 <h3 align="left">Stack</h3>
 
