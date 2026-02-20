@@ -51,6 +51,8 @@ Designing intelligent systems for the web.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake" />
 
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash" />
+
+  <br />
   
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
   
