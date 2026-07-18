@@ -105,6 +105,12 @@ export const TERMINAL_COMMANDS = {
     usage: 'open',
     action: 'tui',
   },
+
+  spa-fl05-yx: {
+    description: 'Open a Game',
+    usage: 'game',
+    action: 'navigate',
+  },
 };
 
 // Personal info for terminal outputs
