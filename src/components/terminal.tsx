@@ -149,6 +149,9 @@ export default function Terminal() {
       case 'resume':
         window.open(PERSONAL_INFO.resume, '_blank');
         break;
+      case 'spa-fl05-yx':
+        window.open('https://yours-exe.shhuuubh.dev/', '_blank');
+        break;
     }
   };
 
@@ -198,7 +201,7 @@ export default function Terminal() {
         output = 'yo yo chill! 😎\n\nNice try, but you already have all the permissions you need here.\nNo need to go full hackerman mode.';
         break;
       case 'matrix':
-        output = '🟢 Entering the Matrix...\n\n01010111 01100101 01101100 01100011 01101111 01101101 01100101\n\nJust kidding! No red pill needed here. 💊\nBut hey, you found an easter egg!';
+        output = 'Entering the Matrix...\n\n01010111 01100101 01101100 01100011 01101111 01101101 01100101\n\nJust kidding! No red pill needed here. \nBut hey, you found an easter egg!';
         break;
       case 'open':
         // Just open the terminal with no output
